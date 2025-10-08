@@ -34,7 +34,7 @@ A key part of my workflow is leveraging AI as a co-pilot for development. I'm an
 ### 📫 How to reach me / Cómo contactarme:
 
 - **Email:** `anthonyramonaguilera@gmail.com`
-- **LinkedIn:** `(Pega aquí el enlace a tu perfil de LinkedIn)`
+- **LinkedIn:** `https://www.linkedin.com/in/anthony-aguilera-0594b0389`
 
 ---
 
