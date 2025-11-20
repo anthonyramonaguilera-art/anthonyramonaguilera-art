@@ -53,11 +53,4 @@ Domain
 | **📱 Mobile & Frontend** | Flutter, Dart, Kotlin, JavaScript, HTML5, CSS3 |
 | **🔧 Tools & Ops** | Pandas, Streamlit, Nmap, Firebase (Firestore, Realtime DB, Auth), MySQL |
 
----
 
-## 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyramonaguilera-art&show_icons=true&theme=radical" alt="Anthony's GitHub Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyramonaguilera-art&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
