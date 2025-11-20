@@ -67,3 +67,13 @@ Technology Stack
 <p align="center">
 <i>"Efficiency is doing things right; effectiveness is doing the right things." - Peter Drucker</i>
 </p>
+
+📈 GitHub Stats
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danthonyramonaguilera-art%26show_icons%3Dtrue%26theme%3Dradical" alt="Anthony's GitHub Stats" height="150"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danthonyramonaguilera-art%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+<i>"Efficiency is doing things right; effectiveness is doing the right things." - Peter Drucker</i>
