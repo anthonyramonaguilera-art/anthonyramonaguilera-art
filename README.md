@@ -41,39 +41,23 @@ Sentinel: Real-time security dashboard utilizing Nmap and Python scripts for pro
 
 Domain
 
-Technology Stack
-
-☁️ Cloud & Infrastructure
-
-
-
-💻 Backend & Legacy
-
-
-
-📱 Mobile & Frontend
-
-
-
-🔧 Tools & Ops
-
 
 
 📈 GitHub Stats
+## 🛠️ Technical Arsenal / Stack Tecnológico
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danthonyramonaguilera-art%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="150"/>
-</p>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **☁️ Cloud & Infrastructure** | AWS (S3, Lambda, DynamoDB, CloudFront), Docker, Linux, Git |
+| **💻 Backend & Legacy** | Node.js, PHP, C++, REST APIs, SQL |
+| **📱 Mobile & Frontend** | Flutter, Dart, Kotlin, JavaScript, HTML5, CSS3 |
+| **🔧 Tools & Ops** | Pandas, Streamlit, Nmap, Firebase (Firestore, Realtime DB, Auth), MySQL |
 
-<p align="center">
-<i>"Efficiency is doing things right; effectiveness is doing the right things." - Peter Drucker</i>
-</p>
+---
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danthonyramonaguilera-art%26show_icons%3Dtrue%26theme%3Dradical" alt="Anthony's GitHub Stats" height="150"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danthonyramonaguilera-art%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyramonaguilera-art&show_icons=true&theme=radical" alt="Anthony's GitHub Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyramonaguilera-art&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
-
-<p align="center">
-<i>"Efficiency is doing things right; effectiveness is doing the right things." - Peter Drucker</i>
